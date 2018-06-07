@@ -5,3 +5,4 @@ map voor mn assignments
 [assignment4](https://github.com/EmmekePleging/assignments/blob/master/assignment4-2.ipynb)
 [assignment5](https://github.com/EmmekePleging/assignments/blob/master/Graded_assignment1-2.ipynb)
 [assignment6](https://github.com/EmmekePleging/assignments/blob/master/Graded_assignment_2-2.ipynb)
+[final assignment R](https://github.com/EmmekePleging/assignments/blob/master/assignment%20exam%207%20juni%202.ipynb)
